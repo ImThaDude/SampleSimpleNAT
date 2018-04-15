@@ -9,8 +9,12 @@ namespace NATPunch
 	{
 		public static void Main (string[] args)
 		{
+			string ip = "server ip here";
+			//Port here.
+			int port = 8080;
+			
 			UdpClient udpClient = new UdpClient();
-			udpClient.Connect("104.32.212.108", 3000);
+			udpClient.Connect(ip, port);
 
 			byte[] data = new byte[1024];
 			IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);

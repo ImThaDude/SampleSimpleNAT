@@ -10,7 +10,7 @@ namespace NATServer
 		public static void Main (string[] args)
 		{
 			byte[] data = new byte[1024];
-			IPEndPoint ipep = new IPEndPoint(IPAddress.Any, 3000);
+			IPEndPoint ipep = new IPEndPoint(IPAddress.Any, 8080);
 			UdpClient newsock = new UdpClient(ipep);
 
 			Console.WriteLine("Waiting for a client...");
