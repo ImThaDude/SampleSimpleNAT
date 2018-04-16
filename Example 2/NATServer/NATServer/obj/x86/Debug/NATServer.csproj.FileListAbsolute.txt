@@ -1,0 +1,10 @@
+G:\User\Quan-Main\Documents\Projects\NATServer\NATServer\bin\Debug\NATServer.exe
+G:\User\Quan-Main\Documents\Projects\NATServer\NATServer\bin\Debug\NATServer.pdb
+G:\User\Quan-Main\Documents\Projects\NATServer\NATServer\obj\x86\Debug\NATServer.csprojResolveAssemblyReference.cache
+G:\User\Quan-Main\Documents\Projects\NATServer\NATServer\obj\x86\Debug\NATServer.exe
+G:\User\Quan-Main\Documents\Projects\NATServer\NATServer\obj\x86\Debug\NATServer.pdb
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATServer\NATServer\bin\Debug\NATServer.exe
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATServer\NATServer\bin\Debug\NATServer.pdb
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATServer\NATServer\obj\x86\Debug\NATServer.csprojResolveAssemblyReference.cache
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATServer\NATServer\obj\x86\Debug\NATServer.exe
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATServer\NATServer\obj\x86\Debug\NATServer.pdb

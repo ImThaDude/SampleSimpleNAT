@@ -1,0 +1,5 @@
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATPunch1\NATPunch1\bin\Debug\NATPunch1.exe
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATPunch1\NATPunch1\bin\Debug\NATPunch1.pdb
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATPunch1\NATPunch1\obj\x86\Debug\NATPunch1.csprojResolveAssemblyReference.cache
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATPunch1\NATPunch1\obj\x86\Debug\NATPunch1.exe
+G:\User\Quan-Main\Documents\Projects\SampleSimpleNAT\Example 2\NATPunch1\NATPunch1\obj\x86\Debug\NATPunch1.pdb
